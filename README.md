@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Anonymousrox01
-- 👀 I’m interested in coding,photoshop,video editing ...
-- 🌱 I’m currently learning c language...
 - rk1singh001@gmail.com 
 
 <!---
